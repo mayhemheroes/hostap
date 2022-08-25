@@ -1,0 +1,4 @@
+project: PROJECT
+target: ap-mgmt
+cmds:
+- cmd: /out/ap-mgmt
